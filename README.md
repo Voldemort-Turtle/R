@@ -1,1 +1,1 @@
-# R
+# This R file includes tasks completed during my coursework and serves as a summary of the skills and techniques I learned while working with the R programming language. It demonstrates my progress in data analysis, problem solving, and practical use of R.
